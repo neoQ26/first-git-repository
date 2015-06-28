@@ -1,0 +1,15 @@
+# Package Files #
+*.class
+*.jar
+*.war
+*.ear
+/target/
+target/*
+.settings/*
+.classpath
+.project
+.idea
+*.iml
+/target
+/bin
+*/src/main/resources/rebel.xml
